@@ -1,5 +1,5 @@
 # joomla-module-boilerplate
-Simple Joomla Module Boilerplate (Starter kit)
+VERY Simple Joomla Module Boilerplate (Starter kit)
 
 ## Zip and Install
 Download the repository in zip format.
