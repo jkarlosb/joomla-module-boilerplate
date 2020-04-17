@@ -2,4 +2,4 @@
 defined('_JEXEC') or die;
 ?>
 
-<div>Hello Z4 STUDIOS!</div>
+<div>Hello World</div>
